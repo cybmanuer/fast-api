@@ -1,3 +1,3 @@
-this is the second file files(changed first to second and file to files)
+manualy solving the merge 
+this is the first file and second file 
 it contains the git branching data below
-added this line in dev branch
